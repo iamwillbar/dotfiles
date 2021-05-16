@@ -28,3 +28,4 @@ fi
 . "$HOME/.cargo/env"
 
 eval $(ssh-agent) &> /dev/null
+cd ~
